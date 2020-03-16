@@ -2,7 +2,7 @@ package pract6A;
 
 import java.time.LocalDate;
 
-public class Main {
+/*public class Main {
     public static void main(String[] args) {
         int releaseJaar1 = LocalDate.now().getYear() - 1; // 1 jaar geleden
 
@@ -26,4 +26,4 @@ public class Main {
         System.out.println("p1 verkoopt g1 aan p2:"+(p1.verkoop(g1, p2) ? "" : " niet")+" gelukt");
         System.out.println("\np1: " +p1+ "\n\np2: " +p2+ "\n");
     }
-}
+}*/

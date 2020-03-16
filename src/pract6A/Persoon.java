@@ -1,6 +1,6 @@
 package pract6A;
 
-import java.util.ArrayList;
+/*import java.util.ArrayList;
 import java.util.Locale;
 
 public class Persoon {
@@ -60,4 +60,4 @@ public class Persoon {
     }
 
 
-}
+}*/

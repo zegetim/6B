@@ -1,6 +1,6 @@
 package pract6A;
 
-import java.time.LocalDate;
+/*import java.time.LocalDate;
 import java.util.Locale;
 
 public class Game {
@@ -31,4 +31,4 @@ public class Game {
     public String toString(){
         return String.format(Locale.GERMANY, "%s, uitgegeven in %d; nieuwprijs: €%.2f nu voor: €%.2f", naam, releaseJaar, nieuwprijs, huidigeWaarde());
     }
-}
+}*/
